@@ -1,11 +1,7 @@
 package com.Sunil.Projects.AirBnbApp.entities;
-
 import jakarta.persistence.Embeddable;
-import jakarta.persistence.Embedded;
-import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.Setter;
-
 @Getter
 @Setter
 @Embeddable
